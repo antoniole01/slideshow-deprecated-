@@ -1,0 +1,2 @@
+# slideshow-deprecated-
+slideshow(deprecated)
